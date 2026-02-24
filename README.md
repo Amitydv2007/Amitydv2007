@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitydv2007](https://github.com/Amitydv2007)
 
-- 📝 I regularly write articles on [Web Development,Programming And Technology](Web Development,Programming And Technology)
+- 📝 I regularly write articles on (Web Development,Programming And Technology)
 
 - 💬 Ask me about **Frontend Development and My Journey to Becoming a Full Stack Developer**
 
